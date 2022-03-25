@@ -76,12 +76,96 @@ margin-left: 200px;
 /* Centered text */
 .centered {
   position: absolute;
-  top: 50%;
+  top: 30%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  color: white;
+font-size: 16px;
+}
+
+
+.bloque {
+  width: 360px;
+  height: 300px;
+  background-color: black;
+  position: absolute;
+  top: 30%;
+  right: 41px;
+  left: 730px;
+  filter: opacity(80%);
+
+}
+
+.centered2 {
+  position: absolute;
+  top: 65%;
   left: 50%;
   transform: translate(-50%, -50%);
+  color: white;
+font-size: 20px;
+}
+
+
+.bloque2 {
+  width: 160px;
+  height: 100px;
+  background-color: yellow;
+  position: absolute;
+  filter: opacity(30%);
+  top: 57%;
+  right: 44px;
+  left: 843px;
+}
+
+
+.frase1 {
+  width: 1000px;
+  height: 300px;
+color: white;
+  top: 90%;
+  right: 41px;
+  left: 500px;
+  position: absolute;
+  font-size: 20px;
+}
+
+.frase2 {
+  width: 1000px;
+  height: 300px;
+color: white;
+  top: 96%;
+  right: 41px;
+  left: 570px;
+  position: absolute;
+  font-size: 20px;
 }
 
 .ladrillo {
   width: 100%;
   height: 230px;
+}
+
+.fondo2 img{
+
+  width: 100%;
+  height: 200px;
+  position: relative;
+
+}
+
+.portland {
+  width: 20%;
+  height: 220px;
+  left: 750px;
+  position: relative;
+}
+
+.frase3 {
+
+color: black;
+  top: 120%;
+  right: 41px;
+  left: 520px;
+
+
 }
