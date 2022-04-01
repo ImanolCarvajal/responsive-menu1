@@ -161,18 +161,12 @@ color: white;
   width: 300px;
   margin-left: 43%;
 
-
 }
 
-.portland {
-
-}
 
 .frase3 {
 
 color: black;
-
-
 }
 
 .fraseazul {
@@ -246,3 +240,100 @@ width: 80px;
 margin-left: 70px;
 position: absolute;
 }
+
+
+.tick3 {
+  margin-top: 50px;
+width: 80px;
+margin-left: 780px;
+position: absolute;
+}
+
+.frase1003 {
+  color: black;
+  margin-left: 860px;
+  margin-top: 70px;
+  position: absolute;
+}
+
+.frase1004 {
+  color: black;
+  margin-left: 800px;
+  margin-top: 140px;
+  position: absolute;
+}
+
+.tick4 {
+  margin-top: -75px;
+width: 80px;
+margin-left: 250px;
+position: absolute;
+}
+
+.tick5 {
+  margin-top: 50px;
+width: 80px;
+margin-left: 760px;
+position: absolute;
+}
+
+.frase1005 {
+  color: black;
+  margin-left: 860px;
+  margin-top: -80px;
+  position: absolute;
+}
+
+
+.frase1006 {
+  color: black;
+  margin-left: 860px;
+  margin-top: 70px;
+  position: absolute;
+}
+
+
+
+
+.obreros {
+  margin-top: 10px;
+  width: 300px;
+  margin-left: 10%;
+
+  }
+
+  .frase2000 {
+    color: black;
+    margin-left: 260px;
+    margin-top: 20px;
+    position: absolute;
+  }
+
+
+  .banderas {
+    margin-top: 0px;
+    width: 400px;
+    margin-left: 13%;
+
+    }
+
+    .frase2001 {
+      color: black;
+      margin-left: 850px;
+      margin-top: 20px;
+      position: absolute;
+    }
+
+    .seguridad {
+      margin-top: 0px;
+      width: 270px;
+      margin-left: 15%;
+
+      }
+
+      .frase2002 {
+        color: black;
+        margin-left: 1420px;
+        margin-top: 20px;
+        position: absolute;
+      }
